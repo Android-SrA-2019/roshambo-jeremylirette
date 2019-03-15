@@ -1,4 +1,6 @@
+package com.example.roshambo_jeremylirette;
 
+import com.example.roshambo_jeremylriette.R;
 
 import java.util.Random;
 
